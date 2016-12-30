@@ -8,6 +8,7 @@ import javax.swing.border.*;
 /******************************************************/
 class FindReplaceDemo extends JFrame
 {
+//comment from yassir
 FindDialog dialog=null; 
 JTextArea ta;
 JButton findButton,replaceButton;
