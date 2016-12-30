@@ -289,7 +289,6 @@ public class Notepad_beta implements ActionListener, AllMenus{
 		f.add(new JLabel("  "),BorderLayout.WEST);
 		
 			cMenuBar(f);
-		System.out.println("This is constructor");
 		
 		f.pack();
 		f.setLocation(100,50);
